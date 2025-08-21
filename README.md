@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a386official" alt="a386official" /></a> </p>
 
-- 🌱 I’m currently learning **NextJS, Typescript**
+- 🌱 I’m currently learning **Web3, ML**
 
-- 👨‍💻 All of my projects are available at [a386.netlify.app](a386.netlify.app)
+- 👨‍💻 All of my projects are available at [a386.site](a386.site)
 
 - 📫 How to reach me **a386business@gmail.com**
 
