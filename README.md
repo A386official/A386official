@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web3, ML**
 
-- 👨‍💻 All of my projects are available at [a386.site](a386.site)
+- 👨‍💻 All of my projects are available at [A386](https://a386.site)
 
 - 📫 How to reach me **a386business@gmail.com**
 
