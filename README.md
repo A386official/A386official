@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm A386</h1>
 <h3 align="center">A passionate developer specializing in web development.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a386official" alt="a386official" /></a> </p>
 
 - 🌱 I’m currently learning **Web3, ML**
 
