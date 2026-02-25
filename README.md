@@ -65,30 +65,6 @@ I'm a passionate developer specializing in web development, currently diving dee
 
 ---
 
-### 📊 &nbsp;GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=A386&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A386&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=A386&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
-</div>
-
----
-
-<div align="center">
-
-### 🐍 &nbsp;Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/A386/A386/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/A386/A386/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/A386/A386/output/github-snake-dark.svg" />
-</picture>
-
-</div>
 
 ---
 
